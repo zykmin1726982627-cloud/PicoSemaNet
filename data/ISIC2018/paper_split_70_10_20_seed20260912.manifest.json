@@ -1,0 +1,17 @@
+{
+  "protocol": "ISIC2018-full-70-10-20-area-stratified-grouped-v1",
+  "seed": 20260912,
+  "counts": {
+    "train": 1815,
+    "val": 259,
+    "test": 520
+  },
+  "dataset_pairs": 2594,
+  "group_count": 2577,
+  "multi_image_group_count": 15,
+  "split_file": "/home/w/桌面/unet/TUNET1_phase1_model_experiments/data/ISIC2018/paper_split_70_10_20_seed20260912.json",
+  "split_sha256": "ff709315d972d602969d1da5815170abade7d0c08fa0d8c09264968a80df5228",
+  "stratification": "rank deciles of foreground-mask area fraction",
+  "grouping": "exact SHA-256 or 64-bit dHash Hamming distance <= 1",
+  "warning": "No patient/lesion metadata was present locally; image-level duplicate grouping is the available leakage control."
+}

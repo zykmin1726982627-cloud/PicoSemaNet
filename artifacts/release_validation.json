@@ -1,0 +1,49 @@
+{
+  "pytest": {
+    "passed": 114,
+    "skipped": 2,
+    "scope": "all included tests on CPU; CUDA tests skipped"
+  },
+  "configs_validated": 53,
+  "primary_checkpoints": [
+    {
+      "run_id": "primary_full_seed42",
+      "parameters": 4844,
+      "shape": [
+        1,
+        1,
+        320,
+        320
+      ],
+      "checkpoint_epoch": 104
+    },
+    {
+      "run_id": "primary_full_seed43",
+      "parameters": 4844,
+      "shape": [
+        1,
+        1,
+        320,
+        320
+      ],
+      "checkpoint_epoch": 93
+    },
+    {
+      "run_id": "primary_full_seed44",
+      "parameters": 4844,
+      "shape": [
+        1,
+        1,
+        320,
+        320
+      ],
+      "checkpoint_epoch": 133
+    }
+  ],
+  "bootstrap_comparisons_matched": 44,
+  "bootstrap_max_abs_difference": 0,
+  "training_run": false,
+  "full_test_set_recomputed": false,
+  "python": "3.10.12",
+  "torch": "2.11.0+cu128"
+}

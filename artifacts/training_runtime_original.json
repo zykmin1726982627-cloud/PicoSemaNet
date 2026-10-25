@@ -1,0 +1,15 @@
+{
+  "python": "3.10.12",
+  "packages": {
+    "torch": "2.11.0+cu128",
+    "numpy": "2.2.6",
+    "Pillow": "12.3.0",
+    "matplotlib": "3.10.9",
+    "pytest": "9.1.1",
+    "tqdm": "4.70.0"
+  },
+  "training_torch": "2.11.0+cu128",
+  "training_cuda": "12.8",
+  "training_device": "NVIDIA RTX A5000",
+  "current_torch_cuda": "12.8"
+}

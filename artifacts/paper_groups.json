@@ -1,0 +1,97 @@
+{
+  "primary_full": [
+    "primary_full_seed42",
+    "primary_full_seed43",
+    "primary_full_seed44"
+  ],
+  "primary_no_fpfcs": [
+    "primary_no_fpfcs_seed42"
+  ],
+  "ec_ablation": [
+    "ec_ablation_seed42",
+    "ec_ablation_seed43",
+    "ec_ablation_seed44"
+  ],
+  "context_teacher": [
+    "context_teacher_seed42"
+  ],
+  "unet": [
+    "unet_seed42",
+    "unet_seed43",
+    "unet_seed44"
+  ],
+  "matched_size_unet": [
+    "matched_size_unet_seed42",
+    "matched_size_unet_seed43",
+    "matched_size_unet_seed44"
+  ],
+  "contextunet_3m": [
+    "contextunet_3m_seed42",
+    "contextunet_3m_seed43",
+    "contextunet_3m_seed44"
+  ],
+  "microsemanet": [
+    "microsemanet_seed42",
+    "microsemanet_seed43",
+    "microsemanet_seed44"
+  ],
+  "seg_only": [
+    "seg_only_seed42"
+  ],
+  "legacy_no_fpfcs_ec": [
+    "legacy_no_fpfcs_ec_seed42",
+    "legacy_no_fpfcs_ec_seed43",
+    "legacy_no_fpfcs_ec_seed44"
+  ],
+  "legacy_shallow_ec": [
+    "legacy_shallow_ec_seed42",
+    "legacy_shallow_ec_seed43",
+    "legacy_shallow_ec_seed44"
+  ],
+  "legacy_encoder_only_ec": [
+    "legacy_encoder_only_ec_seed42"
+  ],
+  "legacy_learned_projection_ec": [
+    "legacy_learned_projection_ec_seed42",
+    "legacy_learned_projection_ec_seed43",
+    "legacy_learned_projection_ec_seed44"
+  ],
+  "legacy_no_kd_ec": [
+    "legacy_no_kd_ec_seed42",
+    "legacy_no_kd_ec_seed43",
+    "legacy_no_kd_ec_seed44"
+  ],
+  "legacy_deep_supervision_ec": [
+    "legacy_deep_supervision_ec_seed42",
+    "legacy_deep_supervision_ec_seed43",
+    "legacy_deep_supervision_ec_seed44"
+  ],
+  "legacy_budget_control_ec": [
+    "legacy_budget_control_ec_seed42"
+  ],
+  "matched100_full": [
+    "matched100_full_seed42",
+    "matched100_full_seed43",
+    "matched100_full_seed44"
+  ],
+  "matched100_no_fpfcs": [
+    "matched100_no_fpfcs_seed42",
+    "matched100_no_fpfcs_seed43",
+    "matched100_no_fpfcs_seed44"
+  ],
+  "legacy_no_boundary_ec": [
+    "legacy_no_boundary_ec_seed42",
+    "legacy_no_boundary_ec_seed43",
+    "legacy_no_boundary_ec_seed44"
+  ],
+  "legacy_no_texture_ec": [
+    "legacy_no_texture_ec_seed42",
+    "legacy_no_texture_ec_seed43",
+    "legacy_no_texture_ec_seed44"
+  ],
+  "legacy_no_distance_ec": [
+    "legacy_no_distance_ec_seed42",
+    "legacy_no_distance_ec_seed43",
+    "legacy_no_distance_ec_seed44"
+  ]
+}

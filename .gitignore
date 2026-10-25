@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.pytest_user_tmp/
+outputs/
+checkpoints/*
+!checkpoints/README.md
+*.pt
+*.zip
+data/ISIC2018/images/
+data/ISIC2018/masks/
+.env

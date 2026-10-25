@@ -1,0 +1,10 @@
+{
+  "title": "Full-Path Fixed-Channel Supervision for Compact Skin Lesion Segmentation",
+  "sha256": "421bbd246c0425acc61033d18a3da12e8b39801f33696ad4615c0f17e9a05233",
+  "pages": 8,
+  "manuscript_included": false,
+  "primary_configuration": "Seg + FPFCS + KD; EC=0; decoder DS=0",
+  "reported_primary_dice_percent": "87.39 +/- 0.09",
+  "reported_primary_euclidean_bf1_percent": "46.28 +/- 0.71",
+  "historical_cpu_bf1_recomputed_files_located_on_server": false
+}

@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript when using this code."
+title: "Full-Path Fixed-Channel Supervision for Compact Skin Lesion Segmentation"
+type: software
+license: MIT
+repository-code: "https://github.com/zykmin1726982627-cloud/PicoSemaNet"
+authors:
+  - family-names: Zheng
+    given-names: Yikuan
+  - family-names: Fan
+    given-names: Bohe
+  - family-names: Gupta
+    given-names: Gaurav
