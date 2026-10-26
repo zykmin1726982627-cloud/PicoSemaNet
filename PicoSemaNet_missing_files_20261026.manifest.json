@@ -1,0 +1,1881 @@
+{
+  "base_commit": "d16c386052b59ab86e28630b4ee1f99f093265f8",
+  "zip_name": "PicoSemaNet_missing_files_20261026.zip",
+  "zip_sha256": "d57a3fcaf2f7f213bf9d878934f362fa752124e319604fd0e04544b56c5cf7f7",
+  "file_count": 374,
+  "uncompressed_bytes": 7399269,
+  "original_repository_files_preserved": 272,
+  "new_file_tree_root": "supplementary/",
+  "files": [
+    {
+      "path": "supplementary/FILE_MAP.json",
+      "sha256": "466929258c28173c8f8912dc76183a7634a71a081c2a105ccbad5bba3edd986e",
+      "bytes": 279493
+    },
+    {
+      "path": "supplementary/README.md",
+      "sha256": "2fb3f11459ceae44210f3c14e521641d1d84925931f8ad4ceee32cd64bba2ab3",
+      "bytes": 4011
+    },
+    {
+      "path": "supplementary/SHA256SUMS.txt",
+      "sha256": "b908f4129338b5efe782ebd663bf162df1d00885a294a6da6ed58db3b2c39ebe",
+      "bytes": 61246
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/CHANGELOG.md",
+      "sha256": "aa0af04c6b0f25ddbf1f3cf3531824f0ef1d67581ba52df80c38e0c75e31bcea",
+      "bytes": 903
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/checkpoint_manifest.json",
+      "sha256": "8c0a2ca04f2604f26d2435101f535c5bf9b0609b744213f59b8bc2b5f2c42973",
+      "bytes": 18823
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/CITATION.cff",
+      "sha256": "93a84927f585bd78131f6d66e9e6509184b16e02f5568b6ef9920f22c60d9002",
+      "bytes": 715
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/AUDIT_CN.md",
+      "sha256": "ae5bf0e50656b81aff549d7e1a573fcf64c12d23bcc870b3b47813653bcc091f",
+      "bytes": 5706
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/evaluate.py",
+      "sha256": "d3e215b4164bee8f3aca38495203cdb32a833a09048406fefad37caa08618ea7",
+      "bytes": 19462
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_ablation_nds_v1/formal_results.csv",
+      "sha256": "faf8f86c162de8cfbe7c92ed5a75c9e299c0ab1214d1f1756b202d1973b875eb",
+      "bytes": 1067
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_ablation_nds_v1/formal_results.json",
+      "sha256": "f0c17f36732379f1faf945510bd4b9691be0fcd2549437831fa0783b28616bb5",
+      "bytes": 2220
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_ablation_nds_v1/m2_no_fullpath_seed42/config.json",
+      "sha256": "e35f2bb1fa11ceddeb4036c5e482ee6af3686627c9b15ad6730877900f96d74d",
+      "bytes": 3584
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_ablation_nds_v1/m3_shallow_semantic_seed42/config.json",
+      "sha256": "5089cb6515976ecf0115a92d52ab8b8e40817997f30d29227a105cbcf86b361c",
+      "bytes": 3627
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_ablation_nds_v1/m4_no_boundary_seed42/config.json",
+      "sha256": "cedefe420cc2bfe4117fa38645c8e53bac7b07e0a84272915b9406b2e4e0d8a1",
+      "bytes": 3594
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_ablation_nds_v1/m5_no_texture_seed42/config.json",
+      "sha256": "5c586f180570403704db250bc5ba311420122a7f519d1a1bb3a687be3bbcd43e",
+      "bytes": 3594
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_ablation_nds_v1/m6_no_sdf_seed42/config.json",
+      "sha256": "782b1bec62fee9412e9ff45b82a3cb941c7ae491e24d91336b67194fab2b9ece",
+      "bytes": 3584
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_ablation_priority_v1/formal_results.csv",
+      "sha256": "ea88d1c71b08cdcbfe123c0a506768cc5f5ec966c46cae2cb92eba729bb0b0b8",
+      "bytes": 715
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_ablation_priority_v1/formal_results.json",
+      "sha256": "abfa55d7326bc5c0f654c3f934d102ca0f075b5e3767524de86a764d87276c32",
+      "bytes": 1350
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_ablation_priority_v1/m2_no_fullpath_seed44/config.json",
+      "sha256": "4112ae1a26b084c744029e64c74080cd4cb3f11afdb9888a45a3453cf7e0c5a0",
+      "bytes": 3594
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_ablation_priority_v1/m3_shallow_semantic_seed43/config.json",
+      "sha256": "64f9c81e138df4d5c5f99c09ee5cffbd92a8770436ba5f1604cb8343659704cc",
+      "bytes": 3636
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_ablation_priority_v1/m3_shallow_semantic_seed44/config.json",
+      "sha256": "40e179f1a05a7306b7e7a83385a42124644a329238d50d40782ab47e628686bc",
+      "bytes": 3633
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_ablation_supplement_v1/formal_results.csv",
+      "sha256": "8fcf364c5e356a3dc595bdba19499d46aca5c390da49984e3b52622368350e6d",
+      "bytes": 1286
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_ablation_supplement_v1/formal_results.json",
+      "sha256": "548dc2c45a935c76f1d42599946d5e37e4059fa8e8abe1509f367185665e2e7b",
+      "bytes": 2698
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_ablation_supplement_v1/s1_budget_matched_fullpath_seed42/config.json",
+      "sha256": "09505015b6acb9aa3d2ac0ba6956516755b667cae1314d1813172924f99e8944",
+      "bytes": 3636
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_ablation_supplement_v1/s2_no_fullpath_seed43/config.json",
+      "sha256": "7b1d4c8ad26fea7d393808169bc96f2b0a27f2b347ac6bdd6454f317fe770ad5",
+      "bytes": 3594
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_ablation_supplement_v1/s3a_no_distill_seed42/config.json",
+      "sha256": "5f722150919e2dd9d4e83a7052c95e2c415d3edffa50bcd41e7c8091a12ca048",
+      "bytes": 3459
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_ablation_supplement_v1/s3b_no_edge_seed42/config.json",
+      "sha256": "2af37df05ab5581cb2c2f783fc6c3d5ed2409fce7a7d8b06d08f4fbeb217c7da",
+      "bytes": 3605
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_ablation_supplement_v1/s4_learned_head_fullpath_seed42/config.json",
+      "sha256": "9b5fc8c32eb6704a147107ddb436389bd8eb2860f13c036a551e17afd1dcdabe",
+      "bytes": 3661
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_ablation_supplement_v1/s5_encoder_semantic_seed42/config.json",
+      "sha256": "1009b4b0afb6970f9afdb2b624a70122a4c04e67ccb329abdcc734b22211a1d8",
+      "bytes": 3640
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_last30h_v1/formal_results.csv",
+      "sha256": "5b55f4e3bb5a2f530a8f37a62c087f7586daf6bb5a477468ccba7ddbf14b47fa",
+      "bytes": 2609
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_last30h_v1/formal_results.json",
+      "sha256": "ca80ef5e0b563eb05a27e94f85917e5f950502c677a21c33a5fd2f36460afe91",
+      "bytes": 6093
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_last30h_v1/m4_no_boundary_seed43/config.json",
+      "sha256": "4b91f94656de4d5ccd7fc935261ef7a3433edb84dab90f751ff82959344e811a",
+      "bytes": 3586
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_last30h_v1/m4_no_boundary_seed44/config.json",
+      "sha256": "762e960b5868db9aa10aa241f2bddd5597de892f1f32bb62fdf0515112fed82a",
+      "bytes": 3587
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_last30h_v1/m5_no_texture_seed43/config.json",
+      "sha256": "18c7b58639317d708c6d2d3c4e573c62bdea53d9cab054e3e8f96986306378d0",
+      "bytes": 3584
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_last30h_v1/m5_no_texture_seed44/config.json",
+      "sha256": "cfffdbcafd7be152e302fee98bf7fa5b0998e88f13025f6b3cdc1e7e6ad8ffa6",
+      "bytes": 3583
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_last30h_v1/m6_no_sdf_seed43/config.json",
+      "sha256": "297c0a8fa2f14210c119018477c7b7b63f7566312c2e787902c6cde03ad76920",
+      "bytes": 3575
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_last30h_v1/m6_no_sdf_seed44/config.json",
+      "sha256": "cbe96490e0bb25500de99a138f0a6e121c99b74167807ee2b19344885f136227",
+      "bytes": 3574
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_last30h_v1/no_distill_seed43/config.json",
+      "sha256": "9f314859790a37a54de09749a7123ce2e662e1ec45b2088d7536f8b6c9cb36c2",
+      "bytes": 3427
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_last30h_v1/no_distill_seed44/config.json",
+      "sha256": "74d2e803135d3e45b1305a8cc0195a57d6aa11e82705a91cc3ab988b17342518",
+      "bytes": 3429
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_last30h_v1/no_edge_seed43/config.json",
+      "sha256": "c3b121049f0d7a0b9fa7183cdf69364dc4f2a66ca151e7b53bfbb5e0336c7cd4",
+      "bytes": 3571
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_last30h_v1/no_edge_seed44/config.json",
+      "sha256": "afa0ce8ca76cd2e52a88eb1c7bef20fdc52ae8a14f0f7038e6789778a1a638a2",
+      "bytes": 3572
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_last30h_v1/original_unet_seed43/config.json",
+      "sha256": "b7d6807c5208072ffb88f67bb87d47a118da547478a0a98f4d74d463e7cf7c7e",
+      "bytes": 3335
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_last30h_v1/original_unet_seed44/config.json",
+      "sha256": "fdda5b084fd8abfeaa36290b98da76f9d13e41498ece1aba1ae9680422171481",
+      "bytes": 3335
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_last30h_v1/tiny_unet_5k_seed43/config.json",
+      "sha256": "90c0ef2bbf7773e390c0e622edc874bb903ecaa6d84c2d87495c7b5cd66fb1fb",
+      "bytes": 3340
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_last30h_v1/tiny_unet_5k_seed44/config.json",
+      "sha256": "ae85a4dba8c43be11bd58de4887d8d9497c1306f7af913877313d951711cf4c4",
+      "bytes": 3342
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_multiseed_v1/ablation_a7_no_deep_seed43/config.json",
+      "sha256": "1e93f5e0d6d817e8f76735aa41354738f69e9eeffa783a2436618aabd6447a06",
+      "bytes": 3606
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_multiseed_v1/ablation_a7_no_deep_seed44/config.json",
+      "sha256": "9097b63b7e6c8f57668a53d8f2fde5c753ff28f4f6f222f0260c0d5c77cc9ad2",
+      "bytes": 3602
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_multiseed_v1/main_3m_fullpath_seed43/config.json",
+      "sha256": "0729556e7c395a64706380fb1718e5499c7b1aae0fade7d290fdb0226c0c836c",
+      "bytes": 3616
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_multiseed_v1/main_3m_fullpath_seed44/config.json",
+      "sha256": "1dba8719151ceff99db9298cbfcb47d0845078cc206fc02f5f58c93551155276",
+      "bytes": 3614
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_multiseed_v1/main_under0005m_fullpath_seed43/config.json",
+      "sha256": "1ef5063aad67597864859b786e206444d0ecfa512deb437a240953945d6661ed",
+      "bytes": 3621
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_multiseed_v1/main_under0005m_fullpath_seed44/config.json",
+      "sha256": "fb315613fca717016ac65cd024417f04a22ec7070cc77cc0098be57e8f02866b",
+      "bytes": 3623
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_multiseed_v1/main_under001m_fullpath_seed43/config.json",
+      "sha256": "a5ac5feaee970f932acef678fc8bf24c57a84cb8a3dac9e59c0b830ed143bddc",
+      "bytes": 3622
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_multiseed_v1/main_under001m_fullpath_seed44/config.json",
+      "sha256": "5a29eccca7a33e2a78c1c96726902c62ac9690bb6f225bff13734e7e5c521d43",
+      "bytes": 3623
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_multiseed_v1/multiseed_runs.csv",
+      "sha256": "ff86f9e119e32aba72574d47c0bd6f85f8327f988ae8fb71951192660738b3b9",
+      "bytes": 2272
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_multiseed_v1/multiseed_summary.json",
+      "sha256": "c4f9c76e62e8b81b759ac45bb0675a88d319b29c6e6dea61b3d20b368a2982ea",
+      "bytes": 5808
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_requested_baselines_v1/formal_results.csv",
+      "sha256": "8fbae6694100ce0426e803b23cc0ae32b4f49c2aae88f1e658dd21fd50f9a75e",
+      "bytes": 873
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_requested_baselines_v1/formal_results.json",
+      "sha256": "f81cb4cf64ad6b2582cce75d7e3232dc705e34f6e43ea2dc54e559549a432f60",
+      "bytes": 1767
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_requested_baselines_v1/original_unet_seed42/config.json",
+      "sha256": "a702d8c135f9fc4ffc5f498df9cf11631525be9250ae225bce5cb82782d2710f",
+      "bytes": 3358
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_requested_baselines_v1/projection_head_seed43/config.json",
+      "sha256": "8d54c2ee9ecd443120d3bc3c9ef260d3809d08b9b521c8b207d365d5c8be42c3",
+      "bytes": 3640
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_requested_baselines_v1/projection_head_seed44/config.json",
+      "sha256": "450f81ca9b21f148f4415982db5e39679b13f9615106554aea7c7152d011996e",
+      "bytes": 3642
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_requested_baselines_v1/tiny_unet_5k_seed42/config.json",
+      "sha256": "d138073dc8b7365d24381237207d42c40f5351701b8ed27c40d75efc77d688c5",
+      "bytes": 3360
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/ablation_a0_seg_only_seed42/config.json",
+      "sha256": "4f0fa7751e716ed8e3bfa54e40600901a369e8bf7b0be3d29b9e3cf13f941312",
+      "bytes": 3389
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/ablation_a1_distill_only_seed42/config.json",
+      "sha256": "7b42bea3bf74aea99273c3fca76cef2b0947f685aba0b9f107e089b5178112b6",
+      "bytes": 3556
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/ablation_a2_fullpath_only_seed42/config.json",
+      "sha256": "70df6dd531669f6275cd23280d45ac3457f1de1daab728549f959e4700b92ad3",
+      "bytes": 3457
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/ablation_a2_fullpath_only_seed42/test_metrics.csv",
+      "sha256": "f4797d5d5a2d3052d6f919b85f43d566bb6a2426340ee2e288cd55448213d6e4",
+      "bytes": 947
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/ablation_a2_fullpath_only_seed42/test_metrics.json",
+      "sha256": "24473a59bab487857ab1500f73bdba4a2e60d8b87eb5b8b05e1a0733c031e0ff",
+      "bytes": 1477
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/ablation_a4_no_boundary_seed42/config.json",
+      "sha256": "2f81adabab0c32d36e6887f569f633aacae47f91dc4061c2a60019b95a937e87",
+      "bytes": 3610
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/ablation_a4_no_boundary_seed42/test_metrics.csv",
+      "sha256": "38585b7bc85bc88edc6a24f7dbe2f58d8ba8d63ae98b5d55be4156a8021452e0",
+      "bytes": 945
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/ablation_a4_no_boundary_seed42/test_metrics.json",
+      "sha256": "0cb1ad5cddf29dc44201579a134fab66d5273450b51ea0b6188e3291cb051413",
+      "bytes": 1477
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/ablation_a5_no_texture_seed42/config.json",
+      "sha256": "cc237b67108c6e4f6bdfe3ad4f2a6bec0a71ea5c7ce4637716235c812dbc621b",
+      "bytes": 3607
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/ablation_a5_no_texture_seed42/test_metrics.csv",
+      "sha256": "7bc35a93c9ff49974b7c4c19ce8431ae0f07115db101a213449d9f19171a7c3e",
+      "bytes": 942
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/ablation_a5_no_texture_seed42/test_metrics.json",
+      "sha256": "177a36f93e5b1af7c401c0da6875ea2a36a9eba5364d974a779308e355c0f8a3",
+      "bytes": 1473
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/ablation_a6_no_sdf_seed42/config.json",
+      "sha256": "c19168e3cf679446c0e18439ee78ab4bdd47e3a9e443e2f0596e3524b1bcb238",
+      "bytes": 3597
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/ablation_a6_no_sdf_seed42/test_metrics.csv",
+      "sha256": "145ce3d3c088ab4cc61f6dae6bb09b2947b4887944061798e79a7108638ef1ef",
+      "bytes": 936
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/ablation_a6_no_sdf_seed42/test_metrics.json",
+      "sha256": "9e277e1366ceb3525f9b2ad7c42432b982fbc9d2a2f67a8c37ec0d92b0c01818",
+      "bytes": 1468
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/ablation_a7_no_deep_seed42/config.json",
+      "sha256": "48edcb1ed04cb84b40c78b654985d3386f7fc275c9f2b94ac5967712aff6d2cb",
+      "bytes": 3599
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/formal_results.csv",
+      "sha256": "7899ab8cbbd82fdf5f38fd0d89c7f1663e310b7418f1027c2f3036d09b1f1fff",
+      "bytes": 2461
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/formal_results.json",
+      "sha256": "b8dc0a5c14fe712b088838edf82efe94a20d49e5fca551ad4d1f43a6e32fb57e",
+      "bytes": 5427
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/main_3m_fullpath_seed42/config.json",
+      "sha256": "457d5ae9703b6f2e342be3b8b32eead07a08012537727a41ed443f9fdef4be90",
+      "bytes": 3578
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/main_under0005m_fullpath_seed42/config.json",
+      "sha256": "c8ac3cd2ef609471eed24c0a1c38c4287224f6c0d4a338d276c9e6ce226506c0",
+      "bytes": 3581
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/main_under001m_fullpath_seed42/config.json",
+      "sha256": "0e2feba3000ed5dd6853fc41d5796409057328a51305c49a7af56215d529c739",
+      "bytes": 3580
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/picolite_selective_fullpath_v2_seed42/config.json",
+      "sha256": "866ae0506dea949c24ad568df919ce1044eeeed7d417f7748608699f9471d19b",
+      "bytes": 3714
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/picolite_selective_fullpath_v2_seed42/test_metrics.csv",
+      "sha256": "7463266d882337f12990304657a3165d58a95bc5171989654c65abfffa121468",
+      "bytes": 962
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/picolite_selective_fullpath_v2_seed42/test_metrics.json",
+      "sha256": "d06272258d876cdea293c25aee6ab8d054448002f3798a807b77d2b5872a975b",
+      "bytes": 1492
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/formal_paper_seed42_v1/teacher_performance_context_seed42/config.json",
+      "sha256": "f1e8d34e82361f8161dae022555783e98d7186b5d241007ec040033678896407",
+      "bytes": 3432
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/qualitative_replay/inference_provenance.json",
+      "sha256": "77d29d1739c00a5e45502d37246634d836cdd40af4554e7a0401435bc8a68d91",
+      "bytes": 1721
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/qualitative_replay/manifest.json",
+      "sha256": "bac6ffe51c713c6c73976cf8b3c9138df10742f1c6a59c7882bd2d91c46bc7f8",
+      "bytes": 539
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/qualitative_replay/per_example_metrics.csv",
+      "sha256": "d8fc5ffaba5ff0229742c6295266d43b7bc2cc1aecc5e92567cc2507550ac2f2",
+      "bytes": 1161
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/qualitative_replay/README.txt",
+      "sha256": "fd40d0591b5d07e42fd63d82a8d84fb267c4449e2525279f52dcea3e9b9a634d",
+      "bytes": 564
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/qualitative_replay/source_images.json",
+      "sha256": "076ac8a5ab26b84024d0740bb01ad0c3bf693edf01b43116fd95e8f3cced6b81",
+      "bytes": 2455
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/README.txt",
+      "sha256": "59aef93d32eaba5603c7d323b831a0b597a7e4813222f2d7ce8951228c38ee9c",
+      "bytes": 1156
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/src/directional_refiner.py",
+      "sha256": "cbdee0f2294df4b389821de4faf92bfb77b1d9a11b4423d48c71218043c0cf3c",
+      "bytes": 8718
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/src/metrics.py",
+      "sha256": "4d932af7b166907eacb4cc0ac7f8b950b6b3d7449f45b68078a9d89b829b4316",
+      "bytes": 8170
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/src/selective_refiner.py",
+      "sha256": "adfed93753f0e1e5f1d9269d32d845ca651d5535b53a3fc0092bc8c63c46910a",
+      "bytes": 5393
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/summarize_formal_runs.py",
+      "sha256": "92af04938a7131e965b6b7f65e68070d4ffbfc1742afbdb492eb6dc110e67ce8",
+      "bytes": 1523
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/summarize_multiseed.py",
+      "sha256": "3ac7908c3f468655e5f4608798c04e68bc358c85674d36d1f35c0b5b86e1f70a",
+      "bytes": 2876
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/train.py",
+      "sha256": "adf74259b7a29ede1f7c112f382508ba7083e05a17f9814c436df8a6faf5fb0d",
+      "bytes": 49691
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/verification_20260928/check_model_counts.py",
+      "sha256": "e2a67e014077ab19429db79f0490ea67857b8f899eccf9741f070e8a9fd690e8",
+      "bytes": 1556
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/baseline_source/verification_20260928/model_count_checks.json",
+      "sha256": "2a3327ed9f667846b971252219a502aa7a684f4e905098d7b738aed420d72ea2",
+      "bytes": 869
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/bf1_euclidean.py",
+      "sha256": "66a39aaa3ab174745c8ff8a5ebd441bdcf6b15dadc1ea8ff0670509ca6616fab",
+      "bytes": 3207
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/bf1_table_changes.json",
+      "sha256": "b3a93b1b4a7da8f9709ed9245a5dd84a71ae32a1db9d86b5a505ba75eef315e8",
+      "bytes": 4274
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/compile_diagnostics.json",
+      "sha256": "ec0660885c6729e1a69f6babc6da6e91767f6efe8ae3ffa3478f35e993801fad",
+      "bytes": 369
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/fetch_test_data.py",
+      "sha256": "4d6f299c56228f5f2446c207abcc7a1adaf896c16399a50c8346da7fdbe339c7",
+      "bytes": 5839
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/parallel_context_teacher.log",
+      "sha256": "991bc16bfe84e5e868ab591671997bc9c8cb169a6ae4679366b37586427a3a09",
+      "bytes": 5676
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/parallel_context_teacher.py",
+      "sha256": "b15a7f74efbf49fc9764351ccf271f4aac9524016112e31c1b800fec58a89df8",
+      "bytes": 2544
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/prepare_runs.py",
+      "sha256": "05a5ca30d85cb06598ead57131396462b3a530fb98901518bf93ed335ec6efea",
+      "bytes": 5011
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/README.md",
+      "sha256": "afb61035110b44b5bef0b6123da422be1f3a84c9aedc2d137ce3020b40730327",
+      "bytes": 3850
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/reevaluate.py",
+      "sha256": "3070efc5ba5027eb62b4eb52d6daa2c606f512eda54bd845a430975d057e528f",
+      "bytes": 11454
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_nds_v1/m2_no_fullpath_seed42/metrics.json",
+      "sha256": "e92d7bbed9f36628be83f2abbfb5473f7a4388b9e272aff832598d55914ad476",
+      "bytes": 3406
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_nds_v1/m2_no_fullpath_seed42/per_image_metrics.csv",
+      "sha256": "39ac181cbf9db7dd8ef82d9449ed7cda833165ebe4ded9336b13c3213d638776",
+      "bytes": 55946
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_nds_v1/m3_shallow_semantic_seed42/metrics.json",
+      "sha256": "5eb637f2a98a36eb5f5fd2ba839e218e5b16581ea6a03d6a240d8886a59067d2",
+      "bytes": 3429
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_nds_v1/m3_shallow_semantic_seed42/per_image_metrics.csv",
+      "sha256": "0e533ce519ada49e3449fd92ead939db8a25a2d04dd61f488fc053d861f1f071",
+      "bytes": 55969
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_nds_v1/m4_no_boundary_seed42/metrics.json",
+      "sha256": "d9d55e3b284487e265fd7ca336c972d9c7411c0ab063cec94258a388cb4b2964",
+      "bytes": 3408
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_nds_v1/m4_no_boundary_seed42/per_image_metrics.csv",
+      "sha256": "31a9419f39a7469e9abc1016142cb8d1dbb9823562ee0a5b09d7f6bde523e40f",
+      "bytes": 55875
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_nds_v1/m5_no_texture_seed42/metrics.json",
+      "sha256": "24560526e907684ab2842aab435d10f21fb6b18398b9c4dc025bfbbc3c2005e0",
+      "bytes": 3413
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_nds_v1/m5_no_texture_seed42/per_image_metrics.csv",
+      "sha256": "ab6f25634c44cc921ec1dfb79345cf1360c0fa628ec80f1e0072112d59d25ec8",
+      "bytes": 56079
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_nds_v1/m6_no_sdf_seed42/metrics.json",
+      "sha256": "2a19b6aa70627600fc764d8f2676502850456dc6feacfa5998d7a7a38306c61e",
+      "bytes": 3400
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_nds_v1/m6_no_sdf_seed42/per_image_metrics.csv",
+      "sha256": "a9c08f30222bf6571b8ea6ceae86a0c3b7964f42f5de5e02821ef198fa2c995d",
+      "bytes": 56065
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_priority_v1/m2_no_fullpath_seed44/metrics.json",
+      "sha256": "7f51dddc3ed6b4bf1c5a87f13c578c3cd2fb6971442383a217c26193f3ba7d60",
+      "bytes": 3417
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_priority_v1/m2_no_fullpath_seed44/per_image_metrics.csv",
+      "sha256": "0226facf51e0378e7de7cc9de0183362cafa03dfbde4e5f7f547b5aa0259166b",
+      "bytes": 56124
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_priority_v1/m3_shallow_semantic_seed43/metrics.json",
+      "sha256": "1220790582fa8000e686f00468053e6d736a35decc16b3ffb8e71fdb265d88cb",
+      "bytes": 3432
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_priority_v1/m3_shallow_semantic_seed43/per_image_metrics.csv",
+      "sha256": "50b5635e5d31fb2380dcf8020c4048c5295327d01fbe98d3829aa648e2cc0213",
+      "bytes": 56034
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_priority_v1/m3_shallow_semantic_seed44/metrics.json",
+      "sha256": "25bafa6a34a14fb653e1a6c8d8c579307183e3e70dc9c2b2f083d0b71ba22dc5",
+      "bytes": 3430
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_priority_v1/m3_shallow_semantic_seed44/per_image_metrics.csv",
+      "sha256": "c997a4b220652a3bf830e71bf056114ab7aa7b397820fee733e39161764eaed0",
+      "bytes": 56031
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_supplement_v1/s1_budget_matched_fullpath_seed42/metrics.json",
+      "sha256": "86aa4a36940e337c0b6883d335a462ac903c8152655817de5981f84726d18818",
+      "bytes": 3444
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_supplement_v1/s1_budget_matched_fullpath_seed42/per_image_metrics.csv",
+      "sha256": "18344d1cc360c658e123bad00427ede683cce7093d1751a251714cdd0b8f8f90",
+      "bytes": 56049
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_supplement_v1/s2_no_fullpath_seed43/metrics.json",
+      "sha256": "88fc31a88139bf7a61f3b2e70d2d8b4d5a5f1ae2840f49d8ded555a8ab5c72e0",
+      "bytes": 3418
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_supplement_v1/s2_no_fullpath_seed43/per_image_metrics.csv",
+      "sha256": "a7a3b96fc82fde8878884215a14eb9ca97593f92d0b6668db544651502f53317",
+      "bytes": 55982
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_supplement_v1/s3a_no_distill_seed42/metrics.json",
+      "sha256": "a9429417f30b149828fc231145b2273a100b296a277221f387aad845c08cf824",
+      "bytes": 3418
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_supplement_v1/s3a_no_distill_seed42/per_image_metrics.csv",
+      "sha256": "36fa02777f434bfc882a78f694d5d627d640500e69b65523824de1fe8a3867ae",
+      "bytes": 55933
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_supplement_v1/s3b_no_edge_seed42/metrics.json",
+      "sha256": "83df76cbb3d9663ef04d77d68caae3331291f88ad3463f4d3e1c86abf47d7ce7",
+      "bytes": 3415
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_supplement_v1/s3b_no_edge_seed42/per_image_metrics.csv",
+      "sha256": "72b2b374153ee07195eab2e1250df456dc1ca04cfc09b804a10366cf9255c35d",
+      "bytes": 56087
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_supplement_v1/s4_learned_head_fullpath_seed42/metrics.json",
+      "sha256": "4416431885416fe943f9dda3576518bd266f77b8528834428bf40c66462d5c6a",
+      "bytes": 3456
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_supplement_v1/s4_learned_head_fullpath_seed42/per_image_metrics.csv",
+      "sha256": "b60526d05be84861ce3b015944f771de70ae96a65271a89930783fafc3fa95a8",
+      "bytes": 55923
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_supplement_v1/s5_encoder_semantic_seed42/metrics.json",
+      "sha256": "c39db9c09a84a8102a8c063b924a1f9c352ac9a6146b2a5e7eb2f487e6f947a7",
+      "bytes": 3447
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_ablation_supplement_v1/s5_encoder_semantic_seed42/per_image_metrics.csv",
+      "sha256": "fcb1ec46b08582d7b9e0b8c77c346d55c1be6c472e50c9041bf80c7c2c6af01b",
+      "bytes": 56049
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/m4_no_boundary_seed43/metrics.json",
+      "sha256": "8b0366b5748287796b050c7f8890cb6c4dcf63f771439340f1ab2626d8632835",
+      "bytes": 3399
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/m4_no_boundary_seed43/per_image_metrics.csv",
+      "sha256": "f94e072c9d6864cfdfa49d3ef266f1636ea9f578009430e656ad63e0529e0cdc",
+      "bytes": 56046
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/m4_no_boundary_seed44/metrics.json",
+      "sha256": "6cc388d353a324ce2ad724cb4b5dbe8283f58d69332f76ba6180f2b41e6e02ee",
+      "bytes": 3402
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/m4_no_boundary_seed44/per_image_metrics.csv",
+      "sha256": "c11b76d95c7c1476407519574509e525bf1e3ad91cecb0771cc864b6e5100033",
+      "bytes": 56079
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/m5_no_texture_seed43/metrics.json",
+      "sha256": "6d93b1e3f76f417bbb5150b78c540aef52c5cb33a72cf66f075f813ffd99a972",
+      "bytes": 3398
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/m5_no_texture_seed43/per_image_metrics.csv",
+      "sha256": "9a8fea264b4a8168f910be1bc733ad5ce0664b97b1c92f77b8b187410f22e349",
+      "bytes": 55997
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/m5_no_texture_seed44/metrics.json",
+      "sha256": "1b2fbf10577446d52a1da25ea54c43495be5078dd2340e518a950ab834f57edd",
+      "bytes": 3397
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/m5_no_texture_seed44/per_image_metrics.csv",
+      "sha256": "63167cc2e065d040167b8c92e7ec132acaef10a2b9b3cd75145a6b5845b23502",
+      "bytes": 56025
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/m6_no_sdf_seed43/metrics.json",
+      "sha256": "b548d36dfbe1740c444d8b6bbbcf907f2abc01d1a7996be9314ff713384f186b",
+      "bytes": 3388
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/m6_no_sdf_seed43/per_image_metrics.csv",
+      "sha256": "8aebe209337de7229de40017d51d7fe009a5f529055bb1392fa6aae8819e9947",
+      "bytes": 56143
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/m6_no_sdf_seed44/metrics.json",
+      "sha256": "16ed0ae28e43f4a430b413ed311e3a4dbd87a653db9f2c7507c63bfd418b6b61",
+      "bytes": 3390
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/m6_no_sdf_seed44/per_image_metrics.csv",
+      "sha256": "7d0214850042022a8b15670b13b79cf06a08b3a4ebff8262e0126fe0cc4e6979",
+      "bytes": 55996
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/no_distill_seed43/metrics.json",
+      "sha256": "63f817ea0f756599dcfdf40a98ee8bf8e927d900dc52c565bff1e4652886869a",
+      "bytes": 3388
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/no_distill_seed43/per_image_metrics.csv",
+      "sha256": "d619a24e498706eb01e477690a9e4d01c1f3723d64d7717586d9f12071e20e82",
+      "bytes": 56123
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/no_distill_seed44/metrics.json",
+      "sha256": "5d8111c1083e84807198c96f9f58364dcc10659a33fccf2842b3e687d5d6cfe2",
+      "bytes": 3388
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/no_distill_seed44/per_image_metrics.csv",
+      "sha256": "34297538e83cab7fab2b17b97cb16d7c50cffb5d2ebd85ffc22a7686d98f4534",
+      "bytes": 56085
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/no_edge_seed43/metrics.json",
+      "sha256": "7526bf504ce89ebb9b6265feadc44e5b09ac1c898886e0fbb041abe925bdb628",
+      "bytes": 3380
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/no_edge_seed43/per_image_metrics.csv",
+      "sha256": "6f862d24729763e8539649c9d0a8add3b79d52d77f366f5c8829f0c65f25d440",
+      "bytes": 55944
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/no_edge_seed44/metrics.json",
+      "sha256": "4f8204625414e6e6386e499042d27acd3543f75003262804889e15c2bfd84173",
+      "bytes": 3380
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/no_edge_seed44/per_image_metrics.csv",
+      "sha256": "c7035a8af9afa19f9f03c873ec54503880970d81f5e1a8e987104209adfef5f8",
+      "bytes": 56142
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/original_unet_seed43/metrics.json",
+      "sha256": "517fd825bd8ed3de00bea09c513fe794632aeeb81db9f042f5365f1e472c058f",
+      "bytes": 3378
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/original_unet_seed43/per_image_metrics.csv",
+      "sha256": "bda3066447396d80b7cc6837cd4dec0db6bb4879ef144d2c7923dc11969ec579",
+      "bytes": 56205
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/original_unet_seed44/metrics.json",
+      "sha256": "7cd20e8551ac5d9d435b86e9c02e643dd886b1305a018687cf360be26fc3a855",
+      "bytes": 3379
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/original_unet_seed44/per_image_metrics.csv",
+      "sha256": "cd2b4e1b6ef9d8a18fcd296313d611e436b6f1ee43c49314cb78cd3f49862252",
+      "bytes": 56149
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/tiny_unet_5k_seed43/metrics.json",
+      "sha256": "e00c3709baa8734bc0b4bb193d0eb0127669b0ac7b97f82f04dc9a73d72531a0",
+      "bytes": 3382
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/tiny_unet_5k_seed43/per_image_metrics.csv",
+      "sha256": "04973282b1bea0afca18efacd56b3440cbd260cdae183c5ee30691680864342b",
+      "bytes": 56127
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/tiny_unet_5k_seed44/metrics.json",
+      "sha256": "466dcc5351fd9c5c5248f70bb95c9a56488115cc7daabc02e9061c5d679eb844",
+      "bytes": 3383
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_last30h_v1/tiny_unet_5k_seed44/per_image_metrics.csv",
+      "sha256": "7fa0a0df735a84439984db56ce787e7dd3a4594307ec82bcce5e30914eefff1d",
+      "bytes": 56144
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_multiseed_v1/ablation_a7_no_deep_seed43/metrics.json",
+      "sha256": "47b7a76891a502f8cb1924fe570bc4bd53d9d55202ec078a822cca3979499307",
+      "bytes": 3418
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_multiseed_v1/ablation_a7_no_deep_seed43/per_image_metrics.csv",
+      "sha256": "0657f93d4d2137c8e67b1b528518cdf625bfefe9728db2c8e1ca053e310cebcb",
+      "bytes": 56057
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_multiseed_v1/ablation_a7_no_deep_seed44/metrics.json",
+      "sha256": "7262be4124046e419e3f13e01228219a5e7c4c0e468dfe1adec536ee305a6979",
+      "bytes": 3410
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_multiseed_v1/ablation_a7_no_deep_seed44/per_image_metrics.csv",
+      "sha256": "13f4e6557a00d11f98850bd2a7aeb1f341eac3f3fbdad026098099d0483d7521",
+      "bytes": 56153
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_multiseed_v1/main_3m_fullpath_seed43/metrics.json",
+      "sha256": "d1ae96ff1cdaee9d0589b07a6dc99889ba7d328eebbf1690adc79b1e2657cf96",
+      "bytes": 3412
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_multiseed_v1/main_3m_fullpath_seed43/per_image_metrics.csv",
+      "sha256": "a4e653dbd0576a4bce72c5839851346b7fe6f3ea7eade6301628f48fcba562ed",
+      "bytes": 55851
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_multiseed_v1/main_3m_fullpath_seed44/metrics.json",
+      "sha256": "0ee18dfcaa72398b2d930d86dcb52a76d22657f115fe9ef751d8f6ff3bd1b06c",
+      "bytes": 3408
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_multiseed_v1/main_3m_fullpath_seed44/per_image_metrics.csv",
+      "sha256": "3c64f0ef2be4cea3bc0b950eafcf4763483d0a17ff7503042b68aad411754bba",
+      "bytes": 55948
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_multiseed_v1/main_under0005m_fullpath_seed43/metrics.json",
+      "sha256": "f3731bd961d8eec157605cdd2fc687221ab320f6a43e349bce2e6dc294c67d10",
+      "bytes": 3427
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_multiseed_v1/main_under0005m_fullpath_seed43/per_image_metrics.csv",
+      "sha256": "456fb8bea7633bf69c5e65f240c8d600119da90b631b09fd733c6ffba559bc85",
+      "bytes": 56056
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_multiseed_v1/main_under0005m_fullpath_seed44/metrics.json",
+      "sha256": "4fa488e30e9a4868bd229a3d1ff177687bd9ed0c17bcbbd7d63969f272f71b6a",
+      "bytes": 3428
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_multiseed_v1/main_under0005m_fullpath_seed44/per_image_metrics.csv",
+      "sha256": "5f584289018791cd3060969c032392c7a0342d62d4370d4e1626bfd880e10b0b",
+      "bytes": 56064
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_multiseed_v1/main_under001m_fullpath_seed43/metrics.json",
+      "sha256": "e1eb6b3d22689e747415685494bd84c0f1a50e360a8c2ce47b25eaa135bb8806",
+      "bytes": 3411
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_multiseed_v1/main_under001m_fullpath_seed43/per_image_metrics.csv",
+      "sha256": "240867536294522896bdccbb39da71f3854fd4ccd138adb1b4a580e6c6a4dba2",
+      "bytes": 55892
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_multiseed_v1/main_under001m_fullpath_seed44/metrics.json",
+      "sha256": "1982ad2b516a261d95e98bad75f9e0d6c7d282a9a9bde928bb445a93c9f5bed4",
+      "bytes": 3421
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_multiseed_v1/main_under001m_fullpath_seed44/per_image_metrics.csv",
+      "sha256": "c2c26ec53aa7741363146eaaf8cdc5ce65b69d29407e02a1bb5a7a6aa9219762",
+      "bytes": 55891
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_requested_baselines_v1/original_unet_seed42/metrics.json",
+      "sha256": "885e98542d20c18c63fb691f975c752cbe016166ff2c8fa05b15414c99668f65",
+      "bytes": 3402
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_requested_baselines_v1/original_unet_seed42/per_image_metrics.csv",
+      "sha256": "91c916b2359000c4edaaf072d667447bd6f951f88c1f5421e37195dc42c040fa",
+      "bytes": 56247
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_requested_baselines_v1/projection_head_seed43/metrics.json",
+      "sha256": "20ea7ca3299287eb19b894e34d58d0f31c34c06e5801567a8731d1d9222d05c1",
+      "bytes": 3435
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_requested_baselines_v1/projection_head_seed43/per_image_metrics.csv",
+      "sha256": "de71218d4270ad3944813d10c6278bf4bde67c93fc30d0734cdf3ce3725c6d38",
+      "bytes": 56020
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_requested_baselines_v1/projection_head_seed44/metrics.json",
+      "sha256": "031c091460a9dd9494e49c1c23879e0a916a9e5df56fe84e1347597589ebb322",
+      "bytes": 3439
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_requested_baselines_v1/projection_head_seed44/per_image_metrics.csv",
+      "sha256": "f8a83f032c749221c7fe35e5960ed77328b946e3e3954efd52004734838e6951",
+      "bytes": 55886
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_requested_baselines_v1/tiny_unet_5k_seed42/metrics.json",
+      "sha256": "f5665402d641e7dcf2c7016f0d60aedd3b291979bbd83427029dd398200579e9",
+      "bytes": 3404
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_requested_baselines_v1/tiny_unet_5k_seed42/per_image_metrics.csv",
+      "sha256": "0efb6eb429ac7609e2448ff43e02760c41ba328477df11c9741864042663b832",
+      "bytes": 56022
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_seed42_v1/ablation_a0_seg_only_seed42/metrics.json",
+      "sha256": "5d8480028126f8aff6901f4b13f08a6c81ccd464362373001d0bccb7e605d89f",
+      "bytes": 3410
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_seed42_v1/ablation_a0_seg_only_seed42/per_image_metrics.csv",
+      "sha256": "985b3adec52af3499ccdd2fd7801d22f48f02ac477370cfdf324499067a72430",
+      "bytes": 55920
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_seed42_v1/ablation_a1_distill_only_seed42/metrics.json",
+      "sha256": "1274a76b3e110fbfce53d253abcc1a2e092fdf487873e867b9135b657f0d8223",
+      "bytes": 3418
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_seed42_v1/ablation_a1_distill_only_seed42/per_image_metrics.csv",
+      "sha256": "dd205489f2b15da72f2a9a972cebb1c0df8c042f1853a83b635a7a026144a180",
+      "bytes": 55984
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_seed42_v1/ablation_a7_no_deep_seed42/metrics.json",
+      "sha256": "6c9db5246a9a028cca8fd69406a58b9533ac4e95df3fc04031f3f28cde048ca4",
+      "bytes": 3413
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_seed42_v1/ablation_a7_no_deep_seed42/per_image_metrics.csv",
+      "sha256": "db6e18c3c5c32805b328f238863deadd9a7f8ea2204984d1e98fa6c90bdfce32",
+      "bytes": 56084
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_seed42_v1/main_3m_fullpath_seed42/metrics.json",
+      "sha256": "18e72ce20d109a28aa1363d007695d567ebbf24f7afb39df3a796b359bf8e3b8",
+      "bytes": 3408
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_seed42_v1/main_3m_fullpath_seed42/per_image_metrics.csv",
+      "sha256": "1410537122c5ecc44c20b3d54c6c167de607095c91ee6a8c5e8d70b28e0af61a",
+      "bytes": 55794
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_seed42_v1/main_under0005m_fullpath_seed42/metrics.json",
+      "sha256": "803e55b582b80dee7d102b8e3399d838a00720ad35f56e16a494ba604249062d",
+      "bytes": 3419
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_seed42_v1/main_under0005m_fullpath_seed42/per_image_metrics.csv",
+      "sha256": "8e0a23d9f4f32829015e3c9a1bc2a5dace56b5e1f50f1764ff3016584a32586c",
+      "bytes": 55993
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_seed42_v1/main_under001m_fullpath_seed42/metrics.json",
+      "sha256": "935b1a1244e968e72f837a34012b6b064e69b024433698a1563e793643ccc63b",
+      "bytes": 3406
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_seed42_v1/main_under001m_fullpath_seed42/per_image_metrics.csv",
+      "sha256": "5c58c6d62cf569b3e0ebbd97780a55e48fb2a7460f42b81330265e56b7be6efb",
+      "bytes": 56070
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_seed42_v1/teacher_performance_context_seed42/metrics.json",
+      "sha256": "5b9ccdcfcab2c0d7a5a8f5fd4d890436e46055f3ea270a5fe3746666b1123a3d",
+      "bytes": 3420
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/formal_paper_seed42_v1/teacher_performance_context_seed42/per_image_metrics.csv",
+      "sha256": "09906fd454e22b2700a5e268ec0f95c0f04d9b4780218d4a1bc01b6283bcd84f",
+      "bytes": 55982
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/progress.json",
+      "sha256": "e7a08ae8fc83d19d5af5fdaea216167128fa9412bb9886482429ac71a7ec4d6f",
+      "bytes": 174
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/provenance.json",
+      "sha256": "4cd4a9f85ec2dedab98ba768213bdfcef61310915de4eabe845ef68e8f31eab2",
+      "bytes": 1041
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/results/summary.json",
+      "sha256": "3ab9a564770f3501630e7afee3cbd3f6e61e1750abb0aeb0b8a0627bf7569aee",
+      "bytes": 192879
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/run_manifest.json",
+      "sha256": "c6fe02461dc029a93792391dd5e2134a40e2997b517fabfec827dfadc147acc4",
+      "bytes": 316902
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/test_download_manifest.json",
+      "sha256": "d94708e08121854617b07ebc8224c22602ab3c3f6aefb0ffee6b5a022a04799e",
+      "bytes": 349317
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/update_manuscript.py",
+      "sha256": "14bcf5647af4cb689b324a882332130263894923f119794e33db19f17884ffe8",
+      "bytes": 5246
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/verification.json",
+      "sha256": "149494965a5a456a24f2e2bd018fdb45453c19512b9b120dbb6747c36b6dcb19",
+      "bytes": 430
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/verify_results.py",
+      "sha256": "2b0fe1c511a6d8aca09635a1e965546eb3e1412f2176ca1fa4d8c4915fd4cdf2",
+      "bytes": 4355
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/bf1_euclidean_20261009/write_audit.py",
+      "sha256": "688062f0ed2ed90c5760f7d34218be3c849036c1b1f85fec5278831ada9bdb01",
+      "bytes": 5011
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/current_configuration_20261009/configuration_mapping.json",
+      "sha256": "cfa66751104c1cfb0803cb04232c29caa76b93de75331f20e6783cf7232601cb",
+      "bytes": 20515
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/current_configuration_20261009/figure_generation/deployment/draw_fig2.py",
+      "sha256": "4b0ee80d44ba672f23d7b365fd7a0d7059dbd2574773d1fe7d64487a600765b6",
+      "bytes": 5684
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/current_configuration_20261009/figure_generation/draw_training.py",
+      "sha256": "15e3b13584dd95bc82a5d966a2917f4a1405e96dda357156b2e12c532e28fb9f",
+      "bytes": 3310
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/current_configuration_20261009/figure_generation/qualitative/draw_comparison.py",
+      "sha256": "93cd862ef61af06ff67b4ef18ecb18c8c1d8195a7be9e7c4b4e8016aa6956ed4",
+      "bytes": 2483
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/current_configuration_20261009/figure_generation/qualitative/inference_provenance.json",
+      "sha256": "9a97c35dda0f94a207b5454c2a423944a027934d6e302a912fa4976866bbaea2",
+      "bytes": 1730
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/current_configuration_20261009/figure_generation/qualitative/manifest.json",
+      "sha256": "d6cc52ed9ebde1a352f15441c18089ae8880047d06cd918efdafdac9a1dff3fe",
+      "bytes": 654
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/current_configuration_20261009/figure_generation/qualitative/panel_alignment.json",
+      "sha256": "93c668995bd9d2dd84cc89074c2e9617c80980f2985bda1acd3a670ea9629d72",
+      "bytes": 6998
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/current_configuration_20261009/figure_generation/qualitative/per_example_metrics.csv",
+      "sha256": "1fc178832596ea4cb8db24eeb2d418be2567f94ccca2efdddd83af742c44e64a",
+      "bytes": 1157
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/current_configuration_20261009/figure_generation/qualitative/run_predictions.py",
+      "sha256": "ee11cf5fc2fdedb3be2d0539006d8a4e6432acc5882bbe683b3adf963e343135",
+      "bytes": 3249
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/current_configuration_20261009/figures/figure1_data_check.json",
+      "sha256": "4fa40b62a7015d9193fa54a7edb38cc7da4745cfcd960f8c2513dd3a9d7ed8ff",
+      "bytes": 1619
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/current_configuration_20261009/figures/gen_fig_params_dice.py",
+      "sha256": "dafe78334c34ff375516e6fbc49bd6b1b65dded96ad6f29dff579e34008b3af5",
+      "bytes": 6348
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/current_configuration_20261009/figures/params_dice_comparison.pdf",
+      "sha256": "413d97b4f75807c931e82dbaf07b33eb9d9103ec4ed8aa22f97074b620974156",
+      "bytes": 62224
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/current_configuration_20261009/figures/params_dice_data.csv",
+      "sha256": "888ff6997baf2a1cdad8b470dfbd30908a011824f8a58db6fd826f373374bafd",
+      "bytes": 6106
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/current_configuration_20261009/figures/params_dice_notes.md",
+      "sha256": "ef169611a0fa3ec64979ff63d848f510a6c068d2ce5e1e84c8fb5d8b1c92f4c0",
+      "bytes": 2473
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/current_configuration_20261009/figures/picosemanet_deployment_path.pdf",
+      "sha256": "c1b74fab30c8b82f40b94f0f76682398f2cfffdff1255c05f29741d0992e3664",
+      "bytes": 163210
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/current_configuration_20261009/figures/picosemanet_training_single_column.pdf",
+      "sha256": "e4fa2f7c69688c83c40b93482d4e3e5f5a81e61e3d8d5b9220f6ebead25334dd",
+      "bytes": 68623
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/current_configuration_20261009/figures/qualitative_comparison.pdf",
+      "sha256": "919b534786397cda74666706df9fce8729f803877c5216ae0fd4238c234ff490",
+      "bytes": 478158
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/evaluate.py",
+      "sha256": "d3e215b4164bee8f3aca38495203cdb32a833a09048406fefad37caa08618ea7",
+      "bytes": 19462
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/audit.json",
+      "sha256": "ffb74aa1a9276ca727a6a31a3ba3206fe503684b06be2273efb5aeebb9c55702",
+      "bytes": 13670
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/audit_experiments.py",
+      "sha256": "b7b5b9bdb234c3c6187545d247ba2c5965e2fb62e1f89b3e4a0ad8909b053029",
+      "bytes": 6566
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/bf1_semantics_verification.json",
+      "sha256": "86ad8fda78f2a34fe8ff2fa773eac952e9a46216c56bf2fabe31e0219eedd915",
+      "bytes": 179
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/check_bf1_implementation.py",
+      "sha256": "ebc39f22da073a80203bb47ad717b1d3cf0399a2630d45168cd3d4db54e5354e",
+      "bytes": 1834
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/input_manifest.json",
+      "sha256": "776d35f74f3f036e41e787c97133a3f48975e48d3896770ab38415c1796545f0",
+      "bytes": 10107
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/package_current_supplement.py",
+      "sha256": "d6c83f901642e0a35f1c2eb5709dbe45cafc2fd3b724885936b7e2d1d5f8c83f",
+      "bytes": 8809
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/PROFESSOR_REQUIREMENTS_AUDIT_CN.md",
+      "sha256": "2b110ab5829a880b0e40edc69dd1c53de8043c1fa8f11cfa49076543468002f1",
+      "bytes": 2230
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/FILE_INDEX.csv",
+      "sha256": "c718b1eaa2bf0d0612f750caedb83d13c656eb36d4e14f0a62d11779510ca830",
+      "bytes": 8370
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/formal_paper_professor_fpfcs_100ep_v1/full_fpfcs_seed42/config.json",
+      "sha256": "7dcfc07687213457251c77667dd7d87483c0ec5c019075bd4b96ad24328bbd2e",
+      "bytes": 3934
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/formal_paper_professor_fpfcs_100ep_v1/full_fpfcs_seed42.log",
+      "sha256": "59a464042aeb5be964824c47f3f84e14332bb7f7c7976c8fed219ac571b13414",
+      "bytes": 11448
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/formal_paper_professor_fpfcs_100ep_v1/full_fpfcs_seed43/config.json",
+      "sha256": "665964e8fbb6489675f8aab3df63bcf58e4e8eea1bf8dc3fcb9a0a05e0be199b",
+      "bytes": 3933
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/formal_paper_professor_fpfcs_100ep_v1/full_fpfcs_seed43/last.pt",
+      "sha256": "2cebdd774103ee7f710b7c51e3518acb721c8ff991c8a391674afc6d267b515d",
+      "bytes": 292197
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/formal_paper_professor_fpfcs_100ep_v1/full_fpfcs_seed43.log",
+      "sha256": "4381b2e2607052807737bae3c54c50cb3b6b2d41a5c72ce63d2d8b2a303e2392",
+      "bytes": 11463
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/formal_paper_professor_fpfcs_100ep_v1/full_fpfcs_seed44/config.json",
+      "sha256": "300b08b09a63842b14159dd8a2fb0090d66c1416b11e9666f655c6fadef25a0d",
+      "bytes": 3935
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/formal_paper_professor_fpfcs_100ep_v1/full_fpfcs_seed44/last.pt",
+      "sha256": "cfe03c07f26154ecf9c2a03f4beab6ab55aa7a02bba7761fa5e460fbbd05f961",
+      "bytes": 292197
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/formal_paper_professor_fpfcs_100ep_v1/full_fpfcs_seed44.log",
+      "sha256": "29278107365eb6b1cd4bd577a54fb7ec48efad065b03b2447598858a42a94784",
+      "bytes": 11425
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/formal_paper_professor_fpfcs_100ep_v1/no_fpfcs_seed42/config.json",
+      "sha256": "326db1ffd85412ec5ebc4c6c660b57279a261f25482674e20a86de04499e2216",
+      "bytes": 3917
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/formal_paper_professor_fpfcs_100ep_v1/no_fpfcs_seed42/last.pt",
+      "sha256": "21a219ae37711d6e14fd29d493347013547a1fec5bd746ea4414a75c5a4395ac",
+      "bytes": 292197
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/formal_paper_professor_fpfcs_100ep_v1/no_fpfcs_seed42.log",
+      "sha256": "2e019c609284b67e7812a2d5d5f80fca59be7c39a67450cc563ffd1e0ce85f90",
+      "bytes": 11513
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/formal_paper_professor_fpfcs_100ep_v1/no_fpfcs_seed43/config.json",
+      "sha256": "9d50487f76d721c1404e2fada4246b19bbf5a47cd0e3d9b42c247aa3740dd96a",
+      "bytes": 3914
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/formal_paper_professor_fpfcs_100ep_v1/no_fpfcs_seed43.log",
+      "sha256": "a0ee544e3814f89c3d9850c565a5f40a2d488b363e4c2b18e4615fef239dab8c",
+      "bytes": 11423
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/formal_paper_professor_fpfcs_100ep_v1/no_fpfcs_seed44/config.json",
+      "sha256": "acbbfba266a4f51c9d538d9c18dc2da37b21c881ffcba126707fb715c3135a64",
+      "bytes": 3919
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/formal_paper_professor_fpfcs_100ep_v1/no_fpfcs_seed44.log",
+      "sha256": "8d8b2f8f6e9c0d149fa0cf3efa539773c26331608d28b19a86e2327e874deca5",
+      "bytes": 11467
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/formal_paper_professor_fpfcs_100ep_v1/queue.json",
+      "sha256": "a7b9349b3646f006b98ca638ed494a0633f7d2a953dcc477a1f7ee318c6016f2",
+      "bytes": 16981
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/formal_paper_professor_fpfcs_100ep_v1/results_per_seed.csv",
+      "sha256": "4769d4a8acd1d3940b63dc6ac97c62efdacd9191adc19663887c0cd04cb796d4",
+      "bytes": 824
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/formal_paper_professor_fpfcs_100ep_v1/summary.json",
+      "sha256": "22b9d22ddf89a6e543bfb013390f2e8d252efd2a01f2d79c55a01aff034a5295",
+      "bytes": 2069
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/MANIFEST.sha256",
+      "sha256": "7170c77e11ae44aef763861736ddbadcd56bcdd27044060a4641e7b500ff8750",
+      "bytes": 7985
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/queue_logs/professor_fpfcs_100epoch.log",
+      "sha256": "f3de6c08c961b8b60135409ac45f1d69b009f8d5d99901c44b86af55744aa0ca",
+      "bytes": 896
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/README_CN.md",
+      "sha256": "dccfd1069c8419c265858f2605edd0832078b6a181acc6ce19e2ad4a856ec9d3",
+      "bytes": 7494
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/reproduction_code/evaluate.py",
+      "sha256": "6332756d92bb7b3c3eeb81b06c334fab061ffc60bc6e73a578f09b3a70387e12",
+      "bytes": 19773
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/reproduction_code/run_professor_fpfcs_100epoch.py",
+      "sha256": "d1f0b5a3b82d1b6b184e60bec86cb2d22d2506abce32e0bbb91f916ffb495d39",
+      "bytes": 9859
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/reproduction_code/src/directional_refiner.py",
+      "sha256": "cbdee0f2294df4b389821de4faf92bfb77b1d9a11b4423d48c71218043c0cf3c",
+      "bytes": 8718
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/fixed100_20261009/raw/reproduction_code/src/selective_refiner.py",
+      "sha256": "adfed93753f0e1e5f1d9269d32d845ca651d5535b53a3fc0092bc8c63c46910a",
+      "bytes": 5393
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_ablation_nds_v1/formal_results.csv",
+      "sha256": "faf8f86c162de8cfbe7c92ed5a75c9e299c0ab1214d1f1756b202d1973b875eb",
+      "bytes": 1067
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_ablation_nds_v1/formal_results.json",
+      "sha256": "f0c17f36732379f1faf945510bd4b9691be0fcd2549437831fa0783b28616bb5",
+      "bytes": 2220
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_ablation_nds_v1/m2_no_fullpath_seed42/config.json",
+      "sha256": "e35f2bb1fa11ceddeb4036c5e482ee6af3686627c9b15ad6730877900f96d74d",
+      "bytes": 3584
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_ablation_nds_v1/m3_shallow_semantic_seed42/config.json",
+      "sha256": "5089cb6515976ecf0115a92d52ab8b8e40817997f30d29227a105cbcf86b361c",
+      "bytes": 3627
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_ablation_nds_v1/m4_no_boundary_seed42/config.json",
+      "sha256": "cedefe420cc2bfe4117fa38645c8e53bac7b07e0a84272915b9406b2e4e0d8a1",
+      "bytes": 3594
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_ablation_nds_v1/m5_no_texture_seed42/config.json",
+      "sha256": "5c586f180570403704db250bc5ba311420122a7f519d1a1bb3a687be3bbcd43e",
+      "bytes": 3594
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_ablation_nds_v1/m6_no_sdf_seed42/config.json",
+      "sha256": "782b1bec62fee9412e9ff45b82a3cb941c7ae491e24d91336b67194fab2b9ece",
+      "bytes": 3584
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_ablation_priority_v1/formal_results.csv",
+      "sha256": "ea88d1c71b08cdcbfe123c0a506768cc5f5ec966c46cae2cb92eba729bb0b0b8",
+      "bytes": 715
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_ablation_priority_v1/formal_results.json",
+      "sha256": "abfa55d7326bc5c0f654c3f934d102ca0f075b5e3767524de86a764d87276c32",
+      "bytes": 1350
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_ablation_priority_v1/m2_no_fullpath_seed44/config.json",
+      "sha256": "4112ae1a26b084c744029e64c74080cd4cb3f11afdb9888a45a3453cf7e0c5a0",
+      "bytes": 3594
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_ablation_priority_v1/m3_shallow_semantic_seed43/config.json",
+      "sha256": "64f9c81e138df4d5c5f99c09ee5cffbd92a8770436ba5f1604cb8343659704cc",
+      "bytes": 3636
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_ablation_priority_v1/m3_shallow_semantic_seed44/config.json",
+      "sha256": "40e179f1a05a7306b7e7a83385a42124644a329238d50d40782ab47e628686bc",
+      "bytes": 3633
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_ablation_supplement_v1/formal_results.csv",
+      "sha256": "8fcf364c5e356a3dc595bdba19499d46aca5c390da49984e3b52622368350e6d",
+      "bytes": 1286
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_ablation_supplement_v1/formal_results.json",
+      "sha256": "548dc2c45a935c76f1d42599946d5e37e4059fa8e8abe1509f367185665e2e7b",
+      "bytes": 2698
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_ablation_supplement_v1/s1_budget_matched_fullpath_seed42/config.json",
+      "sha256": "09505015b6acb9aa3d2ac0ba6956516755b667cae1314d1813172924f99e8944",
+      "bytes": 3636
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_ablation_supplement_v1/s2_no_fullpath_seed43/config.json",
+      "sha256": "7b1d4c8ad26fea7d393808169bc96f2b0a27f2b347ac6bdd6454f317fe770ad5",
+      "bytes": 3594
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_ablation_supplement_v1/s3a_no_distill_seed42/config.json",
+      "sha256": "5f722150919e2dd9d4e83a7052c95e2c415d3edffa50bcd41e7c8091a12ca048",
+      "bytes": 3459
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_ablation_supplement_v1/s3b_no_edge_seed42/config.json",
+      "sha256": "2af37df05ab5581cb2c2f783fc6c3d5ed2409fce7a7d8b06d08f4fbeb217c7da",
+      "bytes": 3605
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_ablation_supplement_v1/s4_learned_head_fullpath_seed42/config.json",
+      "sha256": "9b5fc8c32eb6704a147107ddb436389bd8eb2860f13c036a551e17afd1dcdabe",
+      "bytes": 3661
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_ablation_supplement_v1/s5_encoder_semantic_seed42/config.json",
+      "sha256": "1009b4b0afb6970f9afdb2b624a70122a4c04e67ccb329abdcc734b22211a1d8",
+      "bytes": 3640
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_last30h_v1/formal_results.csv",
+      "sha256": "5b55f4e3bb5a2f530a8f37a62c087f7586daf6bb5a477468ccba7ddbf14b47fa",
+      "bytes": 2609
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_last30h_v1/formal_results.json",
+      "sha256": "ca80ef5e0b563eb05a27e94f85917e5f950502c677a21c33a5fd2f36460afe91",
+      "bytes": 6093
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_last30h_v1/m4_no_boundary_seed43/config.json",
+      "sha256": "4b91f94656de4d5ccd7fc935261ef7a3433edb84dab90f751ff82959344e811a",
+      "bytes": 3586
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_last30h_v1/m4_no_boundary_seed44/config.json",
+      "sha256": "762e960b5868db9aa10aa241f2bddd5597de892f1f32bb62fdf0515112fed82a",
+      "bytes": 3587
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_last30h_v1/m5_no_texture_seed43/config.json",
+      "sha256": "18c7b58639317d708c6d2d3c4e573c62bdea53d9cab054e3e8f96986306378d0",
+      "bytes": 3584
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_last30h_v1/m5_no_texture_seed44/config.json",
+      "sha256": "cfffdbcafd7be152e302fee98bf7fa5b0998e88f13025f6b3cdc1e7e6ad8ffa6",
+      "bytes": 3583
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_last30h_v1/m6_no_sdf_seed43/config.json",
+      "sha256": "297c0a8fa2f14210c119018477c7b7b63f7566312c2e787902c6cde03ad76920",
+      "bytes": 3575
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_last30h_v1/m6_no_sdf_seed44/config.json",
+      "sha256": "cbe96490e0bb25500de99a138f0a6e121c99b74167807ee2b19344885f136227",
+      "bytes": 3574
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_last30h_v1/no_distill_seed43/config.json",
+      "sha256": "9f314859790a37a54de09749a7123ce2e662e1ec45b2088d7536f8b6c9cb36c2",
+      "bytes": 3427
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_last30h_v1/no_distill_seed44/config.json",
+      "sha256": "74d2e803135d3e45b1305a8cc0195a57d6aa11e82705a91cc3ab988b17342518",
+      "bytes": 3429
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_last30h_v1/no_edge_seed43/config.json",
+      "sha256": "c3b121049f0d7a0b9fa7183cdf69364dc4f2a66ca151e7b53bfbb5e0336c7cd4",
+      "bytes": 3571
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_last30h_v1/no_edge_seed44/config.json",
+      "sha256": "afa0ce8ca76cd2e52a88eb1c7bef20fdc52ae8a14f0f7038e6789778a1a638a2",
+      "bytes": 3572
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_last30h_v1/original_unet_seed43/config.json",
+      "sha256": "b7d6807c5208072ffb88f67bb87d47a118da547478a0a98f4d74d463e7cf7c7e",
+      "bytes": 3335
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_last30h_v1/original_unet_seed44/config.json",
+      "sha256": "fdda5b084fd8abfeaa36290b98da76f9d13e41498ece1aba1ae9680422171481",
+      "bytes": 3335
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_last30h_v1/tiny_unet_5k_seed43/config.json",
+      "sha256": "90c0ef2bbf7773e390c0e622edc874bb903ecaa6d84c2d87495c7b5cd66fb1fb",
+      "bytes": 3340
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_last30h_v1/tiny_unet_5k_seed44/config.json",
+      "sha256": "ae85a4dba8c43be11bd58de4887d8d9497c1306f7af913877313d951711cf4c4",
+      "bytes": 3342
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_multiseed_v1/ablation_a7_no_deep_seed43/config.json",
+      "sha256": "1e93f5e0d6d817e8f76735aa41354738f69e9eeffa783a2436618aabd6447a06",
+      "bytes": 3606
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_multiseed_v1/ablation_a7_no_deep_seed44/config.json",
+      "sha256": "9097b63b7e6c8f57668a53d8f2fde5c753ff28f4f6f222f0260c0d5c77cc9ad2",
+      "bytes": 3602
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_multiseed_v1/main_3m_fullpath_seed43/config.json",
+      "sha256": "0729556e7c395a64706380fb1718e5499c7b1aae0fade7d290fdb0226c0c836c",
+      "bytes": 3616
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_multiseed_v1/main_3m_fullpath_seed44/config.json",
+      "sha256": "1dba8719151ceff99db9298cbfcb47d0845078cc206fc02f5f58c93551155276",
+      "bytes": 3614
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_multiseed_v1/main_under0005m_fullpath_seed43/config.json",
+      "sha256": "1ef5063aad67597864859b786e206444d0ecfa512deb437a240953945d6661ed",
+      "bytes": 3621
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_multiseed_v1/main_under0005m_fullpath_seed44/config.json",
+      "sha256": "fb315613fca717016ac65cd024417f04a22ec7070cc77cc0098be57e8f02866b",
+      "bytes": 3623
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_multiseed_v1/main_under001m_fullpath_seed43/config.json",
+      "sha256": "a5ac5feaee970f932acef678fc8bf24c57a84cb8a3dac9e59c0b830ed143bddc",
+      "bytes": 3622
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_multiseed_v1/main_under001m_fullpath_seed44/config.json",
+      "sha256": "5a29eccca7a33e2a78c1c96726902c62ac9690bb6f225bff13734e7e5c521d43",
+      "bytes": 3623
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_multiseed_v1/multiseed_runs.csv",
+      "sha256": "ff86f9e119e32aba72574d47c0bd6f85f8327f988ae8fb71951192660738b3b9",
+      "bytes": 2272
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_multiseed_v1/multiseed_summary.json",
+      "sha256": "c4f9c76e62e8b81b759ac45bb0675a88d319b29c6e6dea61b3d20b368a2982ea",
+      "bytes": 5808
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_requested_baselines_v1/formal_results.csv",
+      "sha256": "8fbae6694100ce0426e803b23cc0ae32b4f49c2aae88f1e658dd21fd50f9a75e",
+      "bytes": 873
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_requested_baselines_v1/formal_results.json",
+      "sha256": "f81cb4cf64ad6b2582cce75d7e3232dc705e34f6e43ea2dc54e559549a432f60",
+      "bytes": 1767
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_requested_baselines_v1/original_unet_seed42/config.json",
+      "sha256": "a702d8c135f9fc4ffc5f498df9cf11631525be9250ae225bce5cb82782d2710f",
+      "bytes": 3358
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_requested_baselines_v1/projection_head_seed43/config.json",
+      "sha256": "8d54c2ee9ecd443120d3bc3c9ef260d3809d08b9b521c8b207d365d5c8be42c3",
+      "bytes": 3640
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_requested_baselines_v1/projection_head_seed44/config.json",
+      "sha256": "450f81ca9b21f148f4415982db5e39679b13f9615106554aea7c7152d011996e",
+      "bytes": 3642
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_requested_baselines_v1/tiny_unet_5k_seed42/config.json",
+      "sha256": "d138073dc8b7365d24381237207d42c40f5351701b8ed27c40d75efc77d688c5",
+      "bytes": 3360
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/ablation_a0_seg_only_seed42/config.json",
+      "sha256": "4f0fa7751e716ed8e3bfa54e40600901a369e8bf7b0be3d29b9e3cf13f941312",
+      "bytes": 3389
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/ablation_a1_distill_only_seed42/config.json",
+      "sha256": "7b42bea3bf74aea99273c3fca76cef2b0947f685aba0b9f107e089b5178112b6",
+      "bytes": 3556
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/ablation_a2_fullpath_only_seed42/config.json",
+      "sha256": "70df6dd531669f6275cd23280d45ac3457f1de1daab728549f959e4700b92ad3",
+      "bytes": 3457
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/ablation_a2_fullpath_only_seed42/test_metrics.csv",
+      "sha256": "f4797d5d5a2d3052d6f919b85f43d566bb6a2426340ee2e288cd55448213d6e4",
+      "bytes": 947
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/ablation_a2_fullpath_only_seed42/test_metrics.json",
+      "sha256": "24473a59bab487857ab1500f73bdba4a2e60d8b87eb5b8b05e1a0733c031e0ff",
+      "bytes": 1477
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/ablation_a4_no_boundary_seed42/config.json",
+      "sha256": "2f81adabab0c32d36e6887f569f633aacae47f91dc4061c2a60019b95a937e87",
+      "bytes": 3610
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/ablation_a4_no_boundary_seed42/test_metrics.csv",
+      "sha256": "38585b7bc85bc88edc6a24f7dbe2f58d8ba8d63ae98b5d55be4156a8021452e0",
+      "bytes": 945
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/ablation_a4_no_boundary_seed42/test_metrics.json",
+      "sha256": "0cb1ad5cddf29dc44201579a134fab66d5273450b51ea0b6188e3291cb051413",
+      "bytes": 1477
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/ablation_a5_no_texture_seed42/config.json",
+      "sha256": "cc237b67108c6e4f6bdfe3ad4f2a6bec0a71ea5c7ce4637716235c812dbc621b",
+      "bytes": 3607
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/ablation_a5_no_texture_seed42/test_metrics.csv",
+      "sha256": "7bc35a93c9ff49974b7c4c19ce8431ae0f07115db101a213449d9f19171a7c3e",
+      "bytes": 942
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/ablation_a5_no_texture_seed42/test_metrics.json",
+      "sha256": "177a36f93e5b1af7c401c0da6875ea2a36a9eba5364d974a779308e355c0f8a3",
+      "bytes": 1473
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/ablation_a6_no_sdf_seed42/config.json",
+      "sha256": "c19168e3cf679446c0e18439ee78ab4bdd47e3a9e443e2f0596e3524b1bcb238",
+      "bytes": 3597
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/ablation_a6_no_sdf_seed42/test_metrics.csv",
+      "sha256": "145ce3d3c088ab4cc61f6dae6bb09b2947b4887944061798e79a7108638ef1ef",
+      "bytes": 936
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/ablation_a6_no_sdf_seed42/test_metrics.json",
+      "sha256": "9e277e1366ceb3525f9b2ad7c42432b982fbc9d2a2f67a8c37ec0d92b0c01818",
+      "bytes": 1468
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/ablation_a7_no_deep_seed42/config.json",
+      "sha256": "48edcb1ed04cb84b40c78b654985d3386f7fc275c9f2b94ac5967712aff6d2cb",
+      "bytes": 3599
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/formal_results.csv",
+      "sha256": "7899ab8cbbd82fdf5f38fd0d89c7f1663e310b7418f1027c2f3036d09b1f1fff",
+      "bytes": 2461
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/formal_results.json",
+      "sha256": "b8dc0a5c14fe712b088838edf82efe94a20d49e5fca551ad4d1f43a6e32fb57e",
+      "bytes": 5427
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/main_3m_fullpath_seed42/config.json",
+      "sha256": "457d5ae9703b6f2e342be3b8b32eead07a08012537727a41ed443f9fdef4be90",
+      "bytes": 3578
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/main_under0005m_fullpath_seed42/config.json",
+      "sha256": "c8ac3cd2ef609471eed24c0a1c38c4287224f6c0d4a338d276c9e6ce226506c0",
+      "bytes": 3581
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/main_under001m_fullpath_seed42/config.json",
+      "sha256": "0e2feba3000ed5dd6853fc41d5796409057328a51305c49a7af56215d529c739",
+      "bytes": 3580
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/picolite_selective_fullpath_v2_seed42/config.json",
+      "sha256": "866ae0506dea949c24ad568df919ce1044eeeed7d417f7748608699f9471d19b",
+      "bytes": 3714
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/picolite_selective_fullpath_v2_seed42/test_metrics.csv",
+      "sha256": "7463266d882337f12990304657a3165d58a95bc5171989654c65abfffa121468",
+      "bytes": 962
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/picolite_selective_fullpath_v2_seed42/test_metrics.json",
+      "sha256": "d06272258d876cdea293c25aee6ab8d054448002f3798a807b77d2b5872a975b",
+      "bytes": 1492
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/formal_paper_seed42_v1/teacher_performance_context_seed42/config.json",
+      "sha256": "f1e8d34e82361f8161dae022555783e98d7186b5d241007ec040033678896407",
+      "bytes": 3432
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/history_20261009/MANIFEST.before_configuration_update.sha256",
+      "sha256": "8af718a141c40eb9df6afca1dc835c29ed0b73d5f88d783ce5b8a51a1edfa312",
+      "bytes": 79767
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/history_20261009/README.before_configuration_update.txt",
+      "sha256": "ad78547bce9aff7b53eaaee6a88e7e273d9cc408185ce6d7510f7017efb05707",
+      "bytes": 1733
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/legacy_MANIFEST.sha256",
+      "sha256": "c7871f77ff4a63ce8976339fc26351b00a582a5829ace444b25f02aa346a27ef",
+      "bytes": 26921
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/MANIFEST.sha256",
+      "sha256": "5da7e54e8927fad5055eb5b3e6feb223baf4983a77df011850da54d77184db17",
+      "bytes": 92883
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/qualitative_replay/inference_provenance.json",
+      "sha256": "77d29d1739c00a5e45502d37246634d836cdd40af4554e7a0401435bc8a68d91",
+      "bytes": 1721
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/qualitative_replay/manifest.json",
+      "sha256": "bac6ffe51c713c6c73976cf8b3c9138df10742f1c6a59c7882bd2d91c46bc7f8",
+      "bytes": 539
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/qualitative_replay/per_example_metrics.csv",
+      "sha256": "d8fc5ffaba5ff0229742c6295266d43b7bc2cc1aecc5e92567cc2507550ac2f2",
+      "bytes": 1161
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/qualitative_replay/README.txt",
+      "sha256": "fd40d0591b5d07e42fd63d82a8d84fb267c4449e2525279f52dcea3e9b9a634d",
+      "bytes": 564
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/qualitative_replay/source_images.json",
+      "sha256": "076ac8a5ab26b84024d0740bb01ad0c3bf693edf01b43116fd95e8f3cced6b81",
+      "bytes": 2455
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/queue_logs/last30h_supplementary_experiments.log",
+      "sha256": "b38fd714ecf0e707ec2abfbc46f54c78e1115f31f82d28c9095ab3430c3fb4a9",
+      "bytes": 218623
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/README.txt",
+      "sha256": "a2cd33990603904294bbe33b9a3c759c5e54b6f8f95e3a4d32dc309728a3e482",
+      "bytes": 4047
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/src/directional_refiner.py",
+      "sha256": "cbdee0f2294df4b389821de4faf92bfb77b1d9a11b4423d48c71218043c0cf3c",
+      "bytes": 8718
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/src/metrics.py",
+      "sha256": "4d932af7b166907eacb4cc0ac7f8b950b6b3d7449f45b68078a9d89b829b4316",
+      "bytes": 8170
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/src/selective_refiner.py",
+      "sha256": "adfed93753f0e1e5f1d9269d32d845ca651d5535b53a3fc0092bc8c63c46910a",
+      "bytes": 5393
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/summarize_formal_runs.py",
+      "sha256": "92af04938a7131e965b6b7f65e68070d4ffbfc1742afbdb492eb6dc110e67ce8",
+      "bytes": 1523
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/summarize_multiseed.py",
+      "sha256": "3ac7908c3f468655e5f4608798c04e68bc358c85674d36d1f35c0b5b86e1f70a",
+      "bytes": 2876
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/train.py",
+      "sha256": "adf74259b7a29ede1f7c112f382508ba7083e05a17f9814c436df8a6faf5fb0d",
+      "bytes": 49691
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/verification_20260928/check_model_counts.py",
+      "sha256": "e2a67e014077ab19429db79f0490ea67857b8f899eccf9741f070e8a9fd690e8",
+      "bytes": 1556
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/evidence/verification_20260928/model_count_checks.json",
+      "sha256": "2a3327ed9f667846b971252219a502aa7a684f4e905098d7b738aed420d72ea2",
+      "bytes": 869
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/FILE_INDEX.csv",
+      "sha256": "70779adf616a7051447469be2c4456f59f9a7039b0f28e2f2343df54ecb18bdf",
+      "bytes": 110446
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/LICENSE-CODE.txt",
+      "sha256": "b333978e5cca1bf4a6a5f41a09d7a10cadf325840d65f1a538f718c35b4e01fe",
+      "bytes": 1118
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/LICENSE-DATA.txt",
+      "sha256": "4500200b91acb1324538d8e8f9665d5f4142d3f1c5cd9730564cf1895b6170f7",
+      "bytes": 17179
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/LICENSES.md",
+      "sha256": "85a09d5ceb8890c7703e261607b1d668cbe318fecc8f9400faeb088f9a14b753",
+      "bytes": 225
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/MANIFEST.sha256",
+      "sha256": "c07aa21adb7d79700e81c9eba2c8cc6df55459da6d951d2bfda55a71ba99eba0",
+      "bytes": 107579
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/README.md",
+      "sha256": "7be78f8503c24264312f2feee23ad181a1dc6c937f72b4d07c6911161838bb63",
+      "bytes": 4123
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/REPRODUCE.md",
+      "sha256": "cadb98372482a7fd4c30c3fe992ed198cb1837cb0a8cd5d10af24fca061a587e",
+      "bytes": 5055
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/RIGHTS.md",
+      "sha256": "edaf8de54a55e40de5e50809b7cd3a2fb5cb1c69e7d063fb41d05df6aa8ad26a",
+      "bytes": 1284
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/tools/replay.py",
+      "sha256": "95eff0aea303c3932e43891a1453799ed825c62b4dbc2565d33883f8e253128a",
+      "bytes": 5698
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/tools/train_fixed100.py",
+      "sha256": "99cd7847d99b6721bf69671b562d2d781939e500b05768eec8c0ffd84e78f671",
+      "bytes": 3674
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/tools/verify_package.py",
+      "sha256": "db3067e63e42f8178c0cba19cee58a46aef2c5c119003866bdba433157fd4e78",
+      "bytes": 1033
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/validation/figure_file_checks.json",
+      "sha256": "e5152cfe93109d820bd86c63b9a15a8f62a974eac8f743e066b47ae045e94222",
+      "bytes": 247
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/validation/fixed100_smoke.json",
+      "sha256": "42bd3b58de12651b0c53b6e64d0f1fb1a62effc261288b32ab016f5db58511eb",
+      "bytes": 2379
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/validation/primary_full520_replay.json",
+      "sha256": "cd8ab73a94999a34e5d8dbf7d8888c661de768ecba97ffb75ffa557ae376ec39",
+      "bytes": 635
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/validation/primary_smoke.json",
+      "sha256": "41b2528556e9eba6a54e3134f36c08d3179b282aa8c60006fee8a8fd6875f08a",
+      "bytes": 2319
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/validation/release_validation.json",
+      "sha256": "588daa4e87f975ea01ef7f8e3b3a99e1348cd923edb472e23a1ff0f0a904e6e8",
+      "bytes": 13475
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/validation/SCOPE.md",
+      "sha256": "598bae982cdde106ee04a87a42c6091fd9ab71581fece90caa69cf93cf3cc79e",
+      "bytes": 734
+    },
+    {
+      "path": "supplementary/zenodo_v1.0.0/ZENODO_METADATA.json",
+      "sha256": "ecb62aae88e0beacf88c8cef1af1bb1e7c1ed7e3c4c8656a7175722257f04953",
+      "bytes": 2999
+    }
+  ]
+}
